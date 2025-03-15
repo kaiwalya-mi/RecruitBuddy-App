@@ -1,0 +1,37 @@
+# Node.js / Frontend
+node_modules/
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/.pnp
+/frontend/.pnp.js
+/frontend/coverage/
+/frontend/.DS_Store
+
+# Rust / Backend
+/backend/target/
+/backend/Cargo.lock
+/backend/.env
+/backend/debug/
+/backend/release/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
