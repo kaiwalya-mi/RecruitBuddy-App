@@ -68,7 +68,7 @@ The TypeScript React frontend implements:
     <tr>
       <td align="center">
 <img width="903" alt="Screenshot 2025-03-13 at 9 48 51 PM" src="https://github.com/user-attachments/assets/324c155d-7edd-4941-bda9-fc6489021bfb" />
-        <b>Candidate Portal</b>
+        <b>Recruiters adding custom question</b>
       </td>
       <td align="center">
         <img width="990" alt="Screenshot 2025-03-13 at 9 48 31 PM" src="https://github.com/user-attachments/assets/2a4ad805-f703-4c15-b0ac-6f67838d4a0d" />
