@@ -12,9 +12,12 @@
   <b>A high-performance technical skill validation platform for modern recruiting</b>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kaiwalya-mi/RecruitBuddy-App/main/docs/dashboard-preview.png" alt="RecruitBuddy Dashboard" width="80%" />
-</p>
+
+<img width="1056" alt="Screenshot 2025-03-13 at 9 47 43 PM" src="https://github.com/user-attachments/assets/363fa3fa-9043-4c87-88c1-ddad77473d37" />
+<img width="990" alt="Screenshot 2025-03-13 at 9 48 31 PM" src="https://github.com/user-attachments/assets/2a4ad805-f703-4c15-b0ac-6f67838d4a0d" />
+<img width="903" alt="Screenshot 2025-03-13 at 9 48 51 PM" src="https://github.com/user-attachments/assets/324c155d-7edd-4941-bda9-fc6489021bfb" />
+
+
 
 ## 📋 Overview
 
